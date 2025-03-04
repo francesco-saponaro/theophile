@@ -18,7 +18,7 @@ import {
   useSpeechRecognitionEvent,
 } from "expo-speech-recognition";
 
-// Define a Message type for better type safety.
+// Define a Message type for better type safety.s
 interface Message {
   id: string;
   text: string;
